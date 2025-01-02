@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 
+// this program requests for the user's full name and age. The program will then output the sum of the user's age and full name length
 int getAge()
 {
 	std::cout << "Enter your age: ";
